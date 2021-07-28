@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         findViewById<Button>(R.id.buttonRegister).setOnClickListener {
-            Toast.makeText(this, "Cadastro concluído com sucesso", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, getString(R.string.register_toast), Toast.LENGTH_SHORT).show()
         }
     }
 

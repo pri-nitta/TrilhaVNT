@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trilha VNT</string>
+    <string name="register_toast">Cadastro concluído com sucesso</string>
+    <string name="app_title">App supertop</string>
+    <string name="welcome_text">Seja bem vindíssimo!</string>
+    <string name="login_btn">Logar</string>
+    <string name="register_bnt">Cadastrar</string>
+    <string name="password">senha:</string>
+    <string name="e_mail">e-mail:</string>
+</resources>

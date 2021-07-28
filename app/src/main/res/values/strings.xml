@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">TrilhaVNT</string>
+    <string name="app_name">Trilha VNT</string>
+    <string name="register_toast">Registration concluded sucessfully!</string>
+    <string name="app_title">App supertop</string>
+    <string name="welcome_text">Be really welcomed!</string>
+    <string name="login_btn">Login</string>
+    <string name="register_bnt">Register</string>
+    <string name="e_mail">e-mail:</string>
+    <string name="password">password:</string>
 </resources>
