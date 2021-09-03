@@ -33,8 +33,4 @@ class MainActivity : AppCompatActivity() {
     private fun welcome(){
         findViewById<TextView>(R.id.welcome).isVisible = true
     }
-
-
-
-
 }
